@@ -1,0 +1,2 @@
+# pareto
+The first foray.
